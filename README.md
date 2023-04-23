@@ -28,11 +28,18 @@
 
 <br> </br>
 <p>
-###### Profile
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@gurmukh_dhillon](https://twitter.com/gurmukh_dhillon) - trainings@netxillon
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 GURMUKH SINGH
     <br> </br>
 Author, Trainer, Consultant
 Books: Monitoring Hadoop and Hadoop 2.x Administration Cookbook. RHCA, MCHA, CCHA
 Also own the repo github.com/gdhillon
-Trianings: trainings@netxillon
 </p>
