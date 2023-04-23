@@ -23,11 +23,12 @@
 
 </div>
 
-
+<br />
+<p>
 ###### Profile
 GURMUKH SINGH
 Author, Trainer, Consultant
 Books: Monitoring Hadoop and Hadoop 2.x Administration Cookbook. RHCA, MCHA, CCHA
 Also own the repo github.com/gdhillon
 Trianings: trainings@netxillon
-
+</p>
