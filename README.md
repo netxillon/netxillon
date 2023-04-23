@@ -20,7 +20,7 @@
     <a href="https://www.terraform.io/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform" /></a>
     <a href="https://kubernetes.io/"><img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></a>
      <a href="https://kubernetes.io/"><img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes" /></a>
-    <a href="https://https://hadoop.apache.org/"><img height="50" src=https://user-images.githubusercontent.com/6219748/233839639-c4dafa07-1fbf-4737-99d5-d5656e6603cf.png" alt="Hadoop" title="Hadoop" /></a>
+    <a href="https://hadoop.apache.org/"><img height="50" src=https://user-images.githubusercontent.com/6219748/233839639-c4dafa07-1fbf-4737-99d5-d5656e6603cf.png" alt="Hadoop" title="Hadoop" /></a>
     </div>
 
 </div>
