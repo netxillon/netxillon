@@ -35,8 +35,8 @@
 Gurmukh Singh - [@gurmukh_dhillon](https://twitter.com/gurmukh_dhillon) - trainings@netxillon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br> </br>
 Author, Trainer, Consultant
 Books: Monitoring Hadoop and Hadoop 2.x Administration Cookbook. RHCA, MCHA, CCHA
+<br> </br>
 Also own the repo github.com/gdhillon
 </p>
