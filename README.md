@@ -1,15 +1,15 @@
 <div align="center" style="text-align:center">
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=gurmukhdeloitte&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
-            alt="gurmukhdeloitte's stats">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=netxillon&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
+            alt="netxillon's stats">
     </a>
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurmukhdeloitte&theme=vue&background=0000&hide_border=true"
-            alt="gurmukhdeloitte's commit streak">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=netxillon&theme=vue&background=0000&hide_border=true"
+            alt="netxillon's commit streak">
     </a>
     <a href="#" onclick="return false;">
-        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurmukhdeloitte&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
-            alt="gurmukhdeloitte's language stats">
+        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netxillon&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
+            alt="netxillon's language stats">
     </a>
     <br></br>
     <div>
